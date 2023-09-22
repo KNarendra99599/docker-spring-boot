@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: 120583202101.dkr.ecr.us-east-1.amazonaws.com/helm-repo
+  repository: 120583202101.dkr.ecr.us-east-1.amazonaws.com/genpact-apaas
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
